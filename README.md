@@ -1,3 +1,10 @@
-# <project title>
+# お試し
 
-- Not ready for production
+```
+$ deno run --allow-net server/server.ts
+```
+
+```
+$ npm run build:dev:css
+$ npm run start
+```
